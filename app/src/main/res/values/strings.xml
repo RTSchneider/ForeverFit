@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Forever Fit</string>
+
+    <string name="quiz_description_text">This quiz will test your knowledge of fitness and nutrition. Let\'\s go!</string>
+
+    <string name="question_one_text">Question 1: How many calories are in a gram of protein?</string>
+    <string name="Q1_RB1_text">1 calorie</string>
+    <string name="Q1_RB2_text">4 calories</string>
+    <string name="Q1_RB3_text">9 calories</string>
+
+    <string name="question_two_text">Question 2 (check all boxes that apply):</string>
+    <string name="question_two_answer_a">You must starve yourself to \'\lose weight\'\.</string>
+    <string name="question_two_answer_b">You should track calories and eat at maintenance or below to maintain or lose weight.</string>
+    <string name="question_two_answer_c">You should eat the food you like, but be mindful of total daily quantity.</string>
+
+    <string name="question_three_text">Question 3: How many calories are in a gram of carbohydrate?</string>
+    <string name="Q3_RB1_text">2 calories</string>
+    <string name="Q3_RB2_text">4 calories</string>
+    <string name="Q3_RB3_text">8 calories</string>
+
+    <string name="question_four_text">Question 4 (choose one):</string>
+    <string name="Q4_RB1_text">It\'\s okay to eat PopTarts while dieting.</string>
+    <string name="Q4_RB2_text">It\'\s NOT okay to eat PopTarts while dieting.</string>
+
+    <string name="question_five_text">Question 5: How many calories are in a gram of fat?</string>
+    <string name="Q5_RB1_text">0 calories</string>
+    <string name="Q5_RB2_text">3 calories</string>
+    <string name="Q5_RB3_text">9 calories</string>
+
+    <string name="question_six_text">Question 6 (choose all boxes that apply):</string>
+    <string name="question_six_answer_a">Weight training will make you "muscle-bound" and unhealthy</string>
+    <string name="question_six_answer_b">Weight training (resistance exercise) is one of the best ways to stay in shape long-term.</string>
+    <string name="question_six_answer_c">Resistance training 3 to 4 days per week is sufficient for the average person.</string>
+
+    <string name="question_seven_text">Question 7: The best way to lose weight is to</string>
+    <string name="Q7_RB1_text">Avoid carbs forevermore!</string>
+    <string name="Q7_RB2_text">Consume less than 10 grams of fat per day.</string>
+    <string name="Q7_RB3_text">Eat in a caloric deficit.</string>
+
+    <string name="question_eight_text">Question 8 (choose one):</string>
+    <string name="Q8_RB1_text">Pizza and donuts are GOOD! (And okay to eat if calories are reconciled.)</string>
+    <string name="Q8_RB2_text">Pizza and donuts are bad!</string>
+
+    <string name="question_nine_text">Question 9: The MOST effective way to burn fat is:</string>
+    <string name="Q9_RB1_text">Run windsprints an hour per day</string>
+    <string name="Q9_RB2_text">Low-intensity steady-state cardio (aka LISS), such as a brisk walk or walking on an inclined treadmill.</string>
+    <string name="Q9_RB3_text">Holding your breath during TV commercials</string>
+
+    <string name="question_ten_text">Question 10: (choose one):</string>
+    <string name="Q10_RB1">Tracking what you eat (such as with an app on your phone) in order to verify that you are eating in a caloric deficit every day is the BEST way to lose weight and effect body recompositioning.</string>
+    <string name="Q10_RB2">Tracking what you eat is laborious, tedious, and unnecessary.</string>
+
+    <string name="Question_11_text">Question 11: What is the MOST important component of weight management?</string>
+    <string name="Question_11_Hint">(hint: 80% ____ and 20% exercise)</string>
+
+    <string name="get_score_button">Get Score</string>
+
+</resources>
